@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sims 4 DLC Unlocker/1.0.0": {
+        "runtime": {
+          "Sims 4 DLC Unlocker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sims 4 DLC Unlocker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
